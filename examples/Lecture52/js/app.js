@@ -5,7 +5,8 @@ johnGreeter.sayHi();
 // IIFE
 (function (name) {
   console.log("Hello " + name);
-})("Coursera!");
+}
+)("Coursera!");
 
 
 
